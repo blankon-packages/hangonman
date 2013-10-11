@@ -1,11 +1,11 @@
 hangonman (0.2) suroboyo; urgency=low
-	* changes any to all
-   
+
+  * changes any to all
 
  -- Syai Mif <syai.unipdu@gmail.com>  Fri, 11 Oct 2013 18:19:21 +0700
 
 hangonman (0.1) suroboyo; urgency=low
 
- 
+  * initial release
 
  -- Syai Mif <syai.unipdu@gmail.com>  Thu, 10 Oct 2013 21:13:21 +0700
