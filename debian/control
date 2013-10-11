@@ -6,7 +6,7 @@ Standards-Version: 3.9.3
 Build-Depends: cdbs, debhelper (>= 8.0.0)
 
 Package: hangonman
-Architecture: any
+Architecture: all
 Depends: html5app
 Description: game
  This is a copy of Tizen Games
