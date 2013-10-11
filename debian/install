@@ -1,6 +1,15 @@
-*.py /usr/share/zacalc/
-*.desktop /usr/share/applications/
-zacalc.png /usr/share/icons/
-logo.png /usr/share/zacalc/image/
-zacalc /usr/bin/
-po/zacalc.mo /usr/share/locale/en_US/LC_MESSAGES/
+index.html /usr/share/hangonman
+config.xml /usr/share/hangonman
+audio /usr/share/hangonman
+css /usr/share/hangonman
+data /usr/share/hangonman
+fonts /usr/share/hangonman
+images /usr/share/hangonman
+js /usr/share/hangonman
+_locales /usr/share/hangonman
+LICENSE /usr/share/doc/hangonman
+*.json /usr/share/hangonman
+*.txt /usr/share/hangonman
+*.png /usr/share/pixmaps
+hangonman.desktop /usr/share/applications
+

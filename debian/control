@@ -1,17 +1,13 @@
-Source: zacalc
-Section: desktop
+Source: hangonman
+Section: games
 Priority: extra
-Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
-Build-Depends: debhelper (>= 8.0.0)
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
 Standards-Version: 3.9.3
-Homepage: https://github.com/zerosix06/zacalc-gtk
-Vcs-Git: git://github.com/zerosix06/zacalc-gtk.git
-Vcs-Browser: http://dev.blankonlinux.or.id/browser/rote/zacalc
-Vcs-bzr: http://dev.blankonlinux.or.id/bzr/rote/zacalc
+Build-Depends: cdbs, debhelper (>= 8.0.0)
 
-Package: zacalc
+Package: hangonman
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, python-gtk2, islamic-menus
-Description: zakat calculator
- BlankOn Zakat Kalculator is tool to calculate 
- the amount of zakat must be spent every year or every month
+Depends: html5app
+Description: game
+ This is a copy of Tizen Games
+ A word guessing game.

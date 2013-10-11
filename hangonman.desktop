@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Hang On, Man!
+Comment=A word guessing game
+GenericName=Hang On, Man!
+Exec=html5app /usr/share/hangonman
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=hangonman
+Categories=Game;
+StartupWMClass=Chromium
+StartupNotify=true
