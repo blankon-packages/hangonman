@@ -7,7 +7,7 @@ Build-Depends: cdbs, debhelper (>= 8.0.0)
 
 Package: hangonman
 Architecture: all
-Depends: html5app
+Depends: maleo
 Description: game
  This is a copy of Tizen Games
  A word guessing game.

@@ -1,3 +1,9 @@
+hangonman (0.3) suroboyo; urgency=low
+
+  * changes html5app to maleo
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Sat, 07 Dec 2013 15:43:33 +0700
+
 hangonman (0.2) suroboyo; urgency=low
 
   * changes any to all
