@@ -1,3 +1,9 @@
+hangonman (0.4) tambora; urgency=low
+
+  * Release tambora
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Sat, 08 Mar 2014 09:08:48 +0700
+
 hangonman (0.3) suroboyo; urgency=low
 
   * changes html5app to maleo
